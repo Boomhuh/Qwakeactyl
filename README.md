@@ -28,9 +28,10 @@ We cannot force you to keep the "Powered by Qwakeactyl" in the footer, but pleas
 
 We are not responsible for any damages.
 
-# Install Guide 
-
-# ubentu
+# install in VPS
+```yml
+bash <(curl -s https://raw.githubusercontent.com/Nightmaregodss/qwakeactyl-installer-assets/main/installer.sh)
+```
 
 
 <hr>
