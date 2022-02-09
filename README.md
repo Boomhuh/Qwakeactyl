@@ -32,23 +32,7 @@ We are not responsible for any damages.
 
 # ubentu
 
-1 `sudo apt update && sudo apt upgrade`
-2 `sudo apt install git`
-3 `curl -fsSL https://deb.nodesource.com/setup_12.x | sudo bash -
-apt install nodejs
-npm -v
-# If npm isn't a valid command, run the step below.
-`
-4 `apt install npm`
-5 with git `git clone https://github.com/Qwakeactyl/Qwakeactyl/archive/refs/heads/main.zip
-cd Qwakeactyl
-npm install`
 
-with out git
-`cd (Qwakeactyl folder name)
-npm install
-`
-6 `npm start`
 <hr>
 
 # Themes
