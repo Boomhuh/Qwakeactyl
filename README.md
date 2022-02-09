@@ -33,6 +33,10 @@ We are not responsible for any damages.
 bash <(curl -s https://raw.githubusercontent.com/Nightmaregodss/qwakeactyl-installer-assets/main/installer.sh)
 ```
 
+# start command
+```
+npm start
+```
 
 <hr>
 
