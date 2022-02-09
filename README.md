@@ -41,3 +41,7 @@ Warning: You need Pterodactyl already set up on a domain for Heliactyl to work
 # Themes
 ![dw](https://media.discordapp.net/attachments/939526295434444850/940603150044377178/unknown.png)
 ![normal](https://media.discordapp.net/attachments/939868719507718165/940867934648143912/unknown.png?width=985&height=447)
+
+This theme is taken from (creativetim)[https://github.com/creativetimofficial/argon-react-native].
+
+
