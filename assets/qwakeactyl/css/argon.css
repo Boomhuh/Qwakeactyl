@@ -8757,7 +8757,8 @@ a.close.disabled
 
 .bg-primary
 {
-    background-color: #5e72e4 !important;
+    
+    background-image: url(https://cdn.discordapp.com/attachments/939526295434444850/940605711224823828/wp2552372.png); !important;
 }
 
 a.bg-primary:hover,
