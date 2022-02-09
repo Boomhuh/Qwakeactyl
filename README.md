@@ -24,6 +24,9 @@ All features:
 
 We cannot force you to keep the "Powered by Qwakeactyl" in the footer, but please consider keeping it. It helps getting more visibility to the project and so getting better. We won't do technical support for installations without the notice in the footer.
 
+# Disclaimer
+
+We are not responsible for any damages.
 
 # Install Guide (pt. 1)
 
