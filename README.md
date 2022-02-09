@@ -28,14 +28,6 @@ We cannot force you to keep the "Powered by Qwakeactyl" in the footer, but pleas
 
 We are not responsible for any damages.
 
-# Install Guide (pt. 1)
-
-Warning: You need Pterodactyl already set up on a domain for Heliactyl to work
-1. Upload the file above onto a Pterodactyl NodeJS server [Download the egg from Parkervcp's GitHub Repository](https://github.com/parkervcp/eggs/tree/master/bots/discord/discord.js)
-2. Unarchive the file and set the server to use NodeJS 12
-3. Configure settings.json (specifically panel domain/apikey and discord auth settings for it to work)
-4. Start the server (Ignore the 2 strange errors that might come up)
-
 <hr>
 
 # Themes
