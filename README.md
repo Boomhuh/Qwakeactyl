@@ -1,5 +1,5 @@
 
-![Qwakeactyl](https://media.discordapp.net/attachments/939868719507718165/940528452266762250/unknown.png)
+![Qwakeactyl](https://media.discordapp.net/attachments/939526295434444850/940603150044377178/unknown.png)
 
 <hr>
 
@@ -35,3 +35,6 @@ Warning: You need Pterodactyl already set up on a domain for Heliactyl to work
 
 <hr>
 
+# Themes
+![dw](https://media.discordapp.net/attachments/939526295434444850/940603150044377178/unknown.png)
+![normal](https://media.discordapp.net/attachments/939868719507718165/940867934648143912/unknown.png?width=985&height=447)
